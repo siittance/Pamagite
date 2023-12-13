@@ -1,0 +1,17 @@
+C:\Users\Administrator\source\repos\Provodnikzachasdosdachi\Provodnikzachasdosdachi\bin\Debug\net7.0\Provodnikzachasdosdachi.exe
+C:\Users\Administrator\source\repos\Provodnikzachasdosdachi\Provodnikzachasdosdachi\bin\Debug\net7.0\Provodnikzachasdosdachi.deps.json
+C:\Users\Administrator\source\repos\Provodnikzachasdosdachi\Provodnikzachasdosdachi\bin\Debug\net7.0\Provodnikzachasdosdachi.runtimeconfig.json
+C:\Users\Administrator\source\repos\Provodnikzachasdosdachi\Provodnikzachasdosdachi\bin\Debug\net7.0\Provodnikzachasdosdachi.dll
+C:\Users\Administrator\source\repos\Provodnikzachasdosdachi\Provodnikzachasdosdachi\bin\Debug\net7.0\Provodnikzachasdosdachi.pdb
+C:\Users\Administrator\source\repos\Provodnikzachasdosdachi\Provodnikzachasdosdachi\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Administrator\source\repos\Provodnikzachasdosdachi\Provodnikzachasdosdachi\obj\Debug\net7.0\Provodnikzachasdosdachi.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Provodnikzachasdosdachi\Provodnikzachasdosdachi\obj\Debug\net7.0\Provodnikzachasdosdachi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\Provodnikzachasdosdachi\Provodnikzachasdosdachi\obj\Debug\net7.0\Provodnikzachasdosdachi.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Provodnikzachasdosdachi\Provodnikzachasdosdachi\obj\Debug\net7.0\Provodnikzachasdosdachi.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Provodnikzachasdosdachi\Provodnikzachasdosdachi\obj\Debug\net7.0\Provodnikzachasdosdachi.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Provodnikzachasdosdachi\Provodnikzachasdosdachi\obj\Debug\net7.0\Provodnikzachasdosdachi.csproj.CopyComplete
+C:\Users\Administrator\source\repos\Provodnikzachasdosdachi\Provodnikzachasdosdachi\obj\Debug\net7.0\Provodnikzachasdosdachi.dll
+C:\Users\Administrator\source\repos\Provodnikzachasdosdachi\Provodnikzachasdosdachi\obj\Debug\net7.0\refint\Provodnikzachasdosdachi.dll
+C:\Users\Administrator\source\repos\Provodnikzachasdosdachi\Provodnikzachasdosdachi\obj\Debug\net7.0\Provodnikzachasdosdachi.pdb
+C:\Users\Administrator\source\repos\Provodnikzachasdosdachi\Provodnikzachasdosdachi\obj\Debug\net7.0\Provodnikzachasdosdachi.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\Provodnikzachasdosdachi\Provodnikzachasdosdachi\obj\Debug\net7.0\ref\Provodnikzachasdosdachi.dll
